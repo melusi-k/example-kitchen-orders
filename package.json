@@ -27,7 +27,7 @@
   "author": "Jeduan Cornejo <jeduan@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "boom": "^5.1.0",
+    "boom": "^7.3.0",
     "date-fns": "^1.28.5",
     "faker": "^4.1.0",
     "hapi": "^16.4.1",
