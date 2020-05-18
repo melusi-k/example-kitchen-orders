@@ -34,7 +34,7 @@
     "hoek": "^4.1.1",
     "inert": "^4.2.0",
     "joi": "^10.5.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.15",
     "sqlite": "^2.8.0"
   },
   "devDependencies": {
